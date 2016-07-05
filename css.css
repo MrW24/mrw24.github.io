@@ -36,11 +36,11 @@ body {
 	background-color: r
 }
 #body {
-	background: linear-gradient(to right, #447744, #224422, #447744);
-	color: #aaffaa;
+	background: linear-gradient(to right, #ffffff, #ffffff, #ffffff);
+	color: #ffffff;
 }
 #body a {
-	color: #ccffcc;
+	color: #000000;
 	text-decoration: none;
 }
 #body a:hover {
