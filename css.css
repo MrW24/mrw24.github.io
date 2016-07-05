@@ -2,7 +2,7 @@
 	font-family: sansaction;
 	src: url(trench.woff);
 }
-body {
+#body {
 	font-family: sansaction;
 	text-align: center;
 	margin: 0px;
