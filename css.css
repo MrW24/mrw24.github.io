@@ -59,26 +59,26 @@
 }
 #twitter {
 	text-align: center;
-	background: linear-gradient(#0EBFE9, #00BFFF, #05B8CC);
+	background: linear-gradient(#0EBFE9, #0EBFE9, #0EBFE9);
 	background-repeat
 }
 #dreambnc {
 	text-align: center;
-	background: linear-gradient(#507786, #0099CC, #236B8E);
+	background: linear-gradient(#236B8E, #236B8E, #236B8E);
 	background-repeat
 }
 #github {
 	text-align: center;
-	background: linear-gradient(#CDAD00, #FBDB0C, #FBEC5D);
+	background: linear-gradient(#CDAD00, #CDAD00, #CDAD00);
 	background-repeat
 }
 #wbot {
 	text-align: center;
-	background: linear-gradient(#68228B, #B452CD, #68228B);
+	background: linear-gradient(#68228B, #68228B, #68228B);
 	background-repeat
 }
 #website {
 	text-align: center;
-	background: linear-gradient(#8FD8D8, #D1EEEE, #79CDCD);
+	background: linear-gradient(#8FD8D8, #8FD8D8, #8FD8D8);
 	background-repeat
 
