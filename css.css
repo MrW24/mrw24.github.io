@@ -34,9 +34,7 @@ body {
 }
 #navbar a:active {
 	background-color: r
-@font-face {
-	font-family: sansaction;
-	src: url(sansation_light.
+}
 #body {
 	background: linear-gradient(to right, #447744, #224422, #447744);
 	color: #aaffaa;
