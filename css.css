@@ -1,7 +1,7 @@
 @font-face {
 	font-family: trench100;
 	src: url(trench100free.woff);
-	font-family: timeburner
+	font-family: timeburner;
 	src: url(timeburnernormal.woff);
 }
 body {
