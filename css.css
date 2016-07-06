@@ -1,6 +1,7 @@
 @font-face {
 	font-family: trench100;
 	src: url(trench100free.woff);
+	src: url(timeburnernormal.woff);
 }
 body {
 	font-family: trench100;
@@ -81,4 +82,10 @@ body {
 	text-align: center;
 	background: linear-gradient(#8FD8D8, #8FD8D8, #8FD8D8);
 	background-repeat
-
+}
+#posts {
+	font-family: timeburner;
+	text-align: left;
+	margin: 0px;
+	background: #ffffff;
+	color: #000000;
